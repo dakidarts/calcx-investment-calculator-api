@@ -95,7 +95,7 @@ Submit multiple calculations at once for batch processing.
 To use the Calcx Investment Calculator API:
 
 1. Visit the [API Documentation](https://dakidarts.com/api/calcx-investment-calculator-api/) to learn more.
-2. Subscribe on RapidAPI to start making requests: [Calcx Investment Calculator API on RapidAPI](https://rapidapi.com/kidddevs/api/calcx-investment-api).
+2. Subscribe on RapidAPI to start making requests: [Calcx Investment Calculator API on RapidAPI](https://rapidapi.com/dakidarts-dakidarts-default/api/calcx-investment-api).
 
 **Note**: You do not need to clone this repository. Access the API through RapidAPI directly.
 
